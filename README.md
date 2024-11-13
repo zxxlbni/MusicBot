@@ -45,7 +45,7 @@ A Python Telegram bot leveraging the Pyrofork library to search and upload songs
 1. **Deploy to Heroku**:
    Click the button below to deploy to Heroku.
 
-   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ns-AnoNymouS/jiosaavn/tree/main)
+   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZxLbni/MusicBot/tree/main)
    
 2. **Local Setup**:
    - Ensure you have Python and pip installed.
