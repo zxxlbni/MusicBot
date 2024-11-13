@@ -18,7 +18,7 @@ async def start_handler(cient: Bot, message: Message|CallbackQuery):
         "- Search for songs, albums, playlists, and artists\n"
         "- Download your favorite tracks directly to Telegram\n"
         "- Explore various features tailored to enhance your music experience\n\n"
-        "**Maintained By:** [Anonymous](https://t.me/Noob_Je)"
+        "**Maintained By:** [Noob](https://t.me/NoobPrivate)"
     )
 
     buttons = [[
