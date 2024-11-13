@@ -16,4 +16,4 @@ BOT_COMMANDS = (
 # Database configuration, host, and port settings
 DATABASE_URL = getenv("DATABASE_URL", "mongodb+srv://mrnoobx:DAZCdTczVWyECi04@cluster0.sedgwxy.mongodb.net/?retryWrites=true&w=majority")
 HOST = getenv("HOST", "")
-PORT = int(getenv("PORT", ""))  # Convert PORT to an integer
+PORT = int(getenv("PORT", "8383"))  # Convert PORT to an integer
