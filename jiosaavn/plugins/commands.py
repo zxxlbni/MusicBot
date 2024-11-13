@@ -69,7 +69,7 @@ async def about(client: Bot, message: Message|CallbackQuery):
         "**📝 Language:** [Python 3](https://www.python.org/)\n\n"
         "**🧰 Framework:** [Pyrogram](https://github.com/pyrogram/pyrogram)\n\n"
         "**👨‍💻 Developer:** [NOOB](https://t.me/Noob_Je)\n\n"
-        "**📢 Updates Channel:** [Noob Bots](https://t.me/NsBotsOfficial)\n\n"
+        "**📢 Updates Channel:** [Noob Bots](https://t.me/NoobPrivate)\n\n"
         "**👥 Support Group:** [NOOB Support ](https://t.me/NOOBPrivate)\n\n"
         "**🔗 Source Code:** [Owner](https://telegram.im/noob_je)\n\n"
     )
