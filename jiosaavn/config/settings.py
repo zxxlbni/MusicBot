@@ -15,5 +15,5 @@ BOT_COMMANDS = (
 
 # Database configuration, host, and port settings
 DATABASE_URL = getenv("DATABASE_URL", None)
-HOST = getenv("HOST", "https://musicbot-0nnd.onrender.com")
+HOST = getenv("HOST", "")
 PORT = int(getenv("PORT", "8080"))  # Convert PORT to an integer
