@@ -3,7 +3,7 @@ from os import getenv
 # Environment configurations with default values
 API_ID = int(getenv("API_ID", "22419004"))  # Ensure API_ID is an integer
 API_HASH = getenv("API_HASH", "34982b52c4a83c2af3ce8f4fe12fe4e1")
-BOT_TOKEN = getenv("BOT_TOKEN", "7564755990:AAH30wsTjb6ZjhLA4v_ddfoNiRaWv8U2KMk")
+BOT_TOKEN = getenv("BOT_TOKEN", "7564755990:AAGovA__Fo-jw3v4X0cpcyLmsNre3OAKFcA")
 
 # Bot commands configuration
 BOT_COMMANDS = (
